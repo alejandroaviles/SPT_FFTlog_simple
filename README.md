@@ -1,5 +1,6 @@
 # SPT_FFTlog_simple
-Simple Mathematica notebook to obtain the SPT matter real space power spectrum using FFTLog (the rsd for tracers version will be uploaded soon)
+Simple Mathematica notebook to obtain the SPT matter real space power spectrum using FFTLog. 
+(The tracers version including RSD will be uploaded soon.)
 
 Alejandro Aviles
 avilescervantes@gmail.com
