@@ -9,7 +9,7 @@ avilescervantes@gmail.com
 
 Computes P22 and P13 in real space, using the method of  Simonovic et al https://arxiv.org/abs/1708.08130
 
-Just run the file Ploop.m
+Just run the file Ploop.nb
 
 The main functions are in modules.m. 
 
